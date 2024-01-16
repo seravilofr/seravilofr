@@ -33,7 +33,7 @@ Furthermore, I can help an organization with my curiosity and the fact that I le
 [<img align="left" alt="JoshMadakor | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/seravilofr
-[linkedin]: [https://www.linkedin.com/in/francoisolivares](https://www.linkedin.com/in/francoisolivares/?locale=en_US)
+[linkedin]: https://www.linkedin.com/in/francoisolivares/?locale=en_US
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
