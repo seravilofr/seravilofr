@@ -1,6 +1,8 @@
-<h1>Hi, I'm Francois! <br/><a href="https://www.linkedin.com/in/francoisolivares/">Senior HR & Employment Law Officer</a>, <a href="https://github.com/seravilofr"> Future Cybersecurity Professional</a>, <a href="https://www.hautlesmains.net/">Podcaster</a></h1>
+<h1>Hi, I'm Francois! <br/><a href="https://www.linkedin.com/in/francoisolivares/">Senior HR & Employment Law Officer</a>, <a href="https://github.com/seravilofr"> Part-time Cybersecurity Student</a>, <a href="https://www.hautlesmains.net/">Podcaster</a></h1>
 
 <h2>💼 My professional statement :</h2>
+
+<p align="justify">I am a part-time student looking to shift my career (8 years in Human Resources and Labour Law) to cybersecurity.</p>
 
 <p align="justify">My professional statement is aimed towards cybersecurity actors (whatever the industry) who may be willing to help, give me advice and even mentor me to reach my goal to be a cybersecurity professional.</p>
 
