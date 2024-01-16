@@ -1,29 +1,31 @@
-<h1>Hi, I'm Francois! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Francois! <br/><a href="https://www.linkedin.com/in/francoisolivares/">Senior HR & Employment Law Officer</a>, <a href="https://github.com/seravilofr"> Future Cybersecurity Professional</a>, <a href="https://www.hautlesmains.net/">Podcaster</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security audits:</b>
   - [Mock Audit with scope, goals, risk assessment, controls and compliance cheklists](https://example.com)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>👨🏼‍🎓 Cybersecurity Certificates:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) *(currently ongoing)*
+- [TryHackMe - Complete Beginner](https://tryhackme.com/path/outline/beginner) *(currently ongoing)*
+
+<h2>🎙 Popular Podcast Episodes (in French)</h2>
+
+- [Trailer](https://open.spotify.com/episode/2WU6eEr7VqPcBKRGvzv7o5?si=LZ-PSeuXSy-TTZxLqfzdlA)
+- [Nice, 1976 : Albert Spaggiari et le casse du siècle](https://open.spotify.com/episode/77h40enjbfusJAcOCN5XKw?si=SGyZrmu8RBCr61vucTGLWA)
+- [Monroe (Etats-Unis), 2008 : Braquage, médocs et petites annonces](https://open.spotify.com/episode/4eDjzgGqCSsfWEFrX5hIpi?si=pZVxDjbpSjSS_5emSq_VRQ)
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/seravilofr
+[linkedin]: https://www.linkedin.com/in/francoisolivares
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
