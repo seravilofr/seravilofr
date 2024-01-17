@@ -1,15 +1,15 @@
-<h1>Hi, I'm Francois! <br/><a href="https://www.linkedin.com/in/francoisolivares/">Senior HR & Employment Law Officer</a>, <a href="https://github.com/seravilofr"> Part-time Cybersecurity Student</a>, <a href="https://www.hautlesmains.net/">Podcaster</a></h1>
+<h1>Hi, I'm Francois! <br/><a href="https://www.linkedin.com/in/francoisolivares/">Senior HR Legal Advisor</a>, <a href="https://github.com/seravilofr"> Part-time Cybersecurity Student</a>, <a href="https://www.hautlesmains.net/">Podcaster</a></h1>
 
 <h2>💼 My professional statement :</h2>
 
-<p align="justify">I am a part-time student looking to shift my career (8 years in Human Resources and Labour Law) to cybersecurity.</p>
+<p align="justify">I am a part-time student looking to shift my career (8 years in Human Resources and Labor Law) to cybersecurity.</p>
 
 <p align="justify">My professional statement is aimed towards cybersecurity actors (whatever the industry) who may be willing to help, give me advice and even mentor me to reach my goal to be a cybersecurity professional.</p>
 
 <p align="justify">What interests me the most in the field of cybersecurity is the fact that it is a dynamic, fast paced, and broad environment which tackles many subjects. I like being the ‘gatekeeper’ against threat actors and to make sure the organizations I support are compliant with laws and regulations.</p>
 
-<p align="justify">The fact that I come from an HR and Legal background shows that I know the importance of handling personal and sensitive data, of confidentiality, of ethics and remaining unbiased in my line of work. My line of work also includes skills in conducting research and asking all the right questions.
-Furthermore, I can help an organization with my curiosity and the fact that I learn quickly on the job.</p>
+<p align="justify">The fact that I come from an HR and Legal background shows that I know the importance of handling personal and sensitive data, of confidentiality, of ethics and remaining unbiased in my everyday work. My line of work also includes skills in conducting research and asking all the right questions.
+Furthermore, I can help an organization with my curiosity, my teamwork skills and the fact that I learn quickly on the job.</p>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
