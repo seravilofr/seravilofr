@@ -15,7 +15,7 @@ Furthermore, I can help an organization with my curiosity, my teamwork skills an
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security audits:</b>
-  - [Mock Audit with scope, goals, risk assessment, controls and compliance cheklists](https://example.com)
+  - [Mock Audit with scope, goals, risk assessment, controls and compliance cheklists](https://github.com/seravilofr/botiumtoys-security-audit)
 
 <h2>👨🏼‍🎓 Cybersecurity Certificates:</h2>
 
