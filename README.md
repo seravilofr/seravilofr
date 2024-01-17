@@ -1,6 +1,6 @@
-<h1>Hi, I'm Francois! <br/><a href="https://www.linkedin.com/in/francoisolivares/">Senior HR Legal Advisor</a>, <a href="https://github.com/seravilofr"> Part-time Cybersecurity Student</a>, <a href="https://www.hautlesmains.net/">Podcaster</a></h1>
+<h2>Hi, I'm Francois! <br/><a href="https://www.linkedin.com/in/francoisolivares/">Senior HR Legal Advisor</a>, <a href="https://github.com/seravilofr"> Part-time Cybersecurity Student</a>, <a href="https://www.hautlesmains.net/">Podcaster</a></h2>
 
-<h2>💼 My professional statement :</h2>
+<h3>💼 My professional statement :</h3>
 
 <p align="justify">I am a part-time student looking to shift my career (8 years in Human Resources and Labor Law) to cybersecurity.</p>
 
@@ -12,24 +12,24 @@
 Furthermore, I can help an organization with my curiosity, my teamwork skills and the fact that I learn quickly on the job.</p>
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h3>👨‍💻 Cybersecurity Projects:</h3>
 
 - <b>Security audits:</b>
   - [Mock Audit with scope, goals, risk assessment, controls and compliance cheklists](https://github.com/seravilofr/botiumtoys-security-audit)
 
-<h2>👨🏼‍🎓 Cybersecurity Certificates:</h2>
+<h3>👨🏼‍🎓 Cybersecurity Certificates:</h3>
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) *(currently ongoing)*
 - [TryHackMe - Complete Beginner](https://tryhackme.com/path/outline/beginner) *(currently ongoing)*
 
-<h2>🎙 Popular Podcast Episodes (in French)</h2>
+<h3>🎙 Popular Podcast Episodes (in French)</h3>
 
 - [Trailer](https://open.spotify.com/episode/2WU6eEr7VqPcBKRGvzv7o5?si=LZ-PSeuXSy-TTZxLqfzdlA)
 - [Nice, 1976 : Albert Spaggiari et le casse du siècle](https://open.spotify.com/episode/77h40enjbfusJAcOCN5XKw?si=SGyZrmu8RBCr61vucTGLWA)
 - [Monroe (Etats-Unis), 2008 : Braquage, médocs et petites annonces](https://open.spotify.com/episode/4eDjzgGqCSsfWEFrX5hIpi?si=pZVxDjbpSjSS_5emSq_VRQ)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
