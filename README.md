@@ -20,7 +20,7 @@ Furthermore, I can help an organization with my curiosity, my teamwork skills an
 <h3>👨🏼‍🎓 Cybersecurity Certificates:</h3>
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) *(currently ongoing)*
-- [TryHackMe - Jr Penetration Tester](https://tryhackme.com/path/jrpenetrationtester) *(currently ongoing)*
+- [TryHackMe - Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) *(currently ongoing)*
 
 <h3>🎙 Popular Podcast Episodes (in French)</h3>
 
