@@ -16,6 +16,9 @@ Furthermore, I can help an organization with my curiosity, my teamwork skills an
 
 - <b>Security audits:</b>
   - [Mock Audit with scope, goals, risk assessment, controls and compliance cheklists](https://github.com/seravilofr/botiumtoys-security-audit)
+    
+- <b>Pentesting Lab :</b>
+  - Creation of a penetration testing lab using virtualization (VirtualBox) featuring Kali Linux, Windows 10, Windows Server 2022, and vulnerable machines sourced from VulnHub
 
 <h3>👨🏼‍🎓 Cybersecurity Certificates:</h3>
 
