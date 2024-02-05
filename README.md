@@ -18,7 +18,7 @@ Furthermore, I can help an organization with my curiosity, my teamwork skills an
   - [Mock Audit with scope, goals, risk assessment, controls and compliance cheklists](https://github.com/seravilofr/botiumtoys-security-audit)
   - Analysis of DNS and ICMP traffic logs, assessment of issues and misconfiguration and solution proposal
     
-- <b>Pentesting Lab :</b>
+- <b>Pentesting Lab:</b>
   - Creation of a penetration testing lab using virtualization (VirtualBox) featuring Kali Linux, Windows 10, Windows Server 2022, and vulnerable machines sourced from VulnHub
 
 <h3>👨🏼‍🎓 Cybersecurity Certificates:</h3>
