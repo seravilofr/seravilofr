@@ -14,14 +14,16 @@ Furthermore, I can help an organization with my curiosity, my teamwork skills an
 
 <h3>👨‍💻 Cybersecurity Projects:</h3>
 
-- <b>Security audits:</b>
+- <b>Google Cybersecurity Professional Certificate activities:</b>
   - [Mock Audit with scope, goals, risk assessment, controls and compliance cheklists](https://github.com/seravilofr/botiumtoys-security-audit)
+  - Analysis of DNS and ICMP traffic logs, assessment of issues and misconfiguration and solution proposal
     
 - <b>Pentesting Lab :</b>
   - Creation of a penetration testing lab using virtualization (VirtualBox) featuring Kali Linux, Windows 10, Windows Server 2022, and vulnerable machines sourced from VulnHub
 
 <h3>👨🏼‍🎓 Cybersecurity Certificates:</h3>
 
+- [CompTIA IT Fundamentals](https://www.comptia.org/certifications/it-fundamentals) *(currently ongoing)*
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) *(currently ongoing)*
 - [TryHackMe - Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) *(currently ongoing)*
 
@@ -41,7 +43,7 @@ Furthermore, I can help an organization with my curiosity, my teamwork skills an
 [linkedin]: https://www.linkedin.com/in/francoisolivares/?locale=en_US
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seravilofr/seravilofr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
