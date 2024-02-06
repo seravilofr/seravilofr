@@ -2,14 +2,14 @@
 
 <h3>💼 My professional statement :</h3>
 
-<p align="justify">I am a part-time student looking to shift my career (8 years in Human Resources and Labor Law) to cybersecurity.</p>
+<p align="justify">I am a part-time student with 8 years of experience in Human Resources and Labor Law, seeking to transition my career to cybersecurity.</p>
 
-<p align="justify">My professional statement is aimed towards cybersecurity actors (whatever the industry) who may be willing to help, give me advice and even mentor me to reach my goal to be a cybersecurity professional.</p>
+<p align="justify">My professional statement is directed towards cybersecurity professionals across various industries,  inviting their guidance, advice, and mentorship as I embark on my journey to become a cybersecurity expert.</p>
 
-<p align="justify">What interests me the most in the field of cybersecurity is the fact that it is a dynamic, fast paced, and broad environment which tackles many subjects. I like being the ‘gatekeeper’ against threat actors and to make sure the organizations I support are compliant with laws and regulations.</p>
+<p align="justify">What captivates me in the field of cybersecurity is  its dynamic, fast-paced nature, addressing a wide range of topics. Serving as the 'gatekeeper' against threat actors, I am committed to ensuring organizational compliance with laws and regulations.</p>
 
-<p align="justify">The fact that I come from an HR and Legal background shows that I know the importance of handling personal and sensitive data, of confidentiality, of ethics and remaining unbiased in my everyday work. My line of work also includes skills in conducting research and asking all the right questions.
-Furthermore, I can help an organization with my curiosity, my teamwork skills and the fact that I learn quickly on the job.</p>
+<p align="justify">Drawing from my HR and Legal background, I bring a deep understanding of handling personal and sensitive data, emphasizing confidentiality, ethics, and impartiality in my day-to-day work. My expertise also include research skills and the ability to ask insightful questions.
+Additionally, my curiosity, teamwork proficiency, and quick on-the-job learning make me a valuable asset to any organization.</p>
 
 
 <h3>👨‍💻 Cybersecurity Projects:</h3>
