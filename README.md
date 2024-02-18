@@ -21,7 +21,7 @@ Additionally, my curiosity, teamwork proficiency, and quick on-the-job learning 
 - <b>Pentesting Lab:</b>
   - Creation of a penetration testing lab using virtualization (VirtualBox) featuring Kali Linux, Windows 10, Windows Server 2022, and vulnerable machines sourced from VulnHub
  
-- <b>Microsoft Key Projects</b>
+- <b>Microsoft Key Projects:</b>
   - Configuring and updating Microsoft Defender
   - Enabling and configuring Microsoft Firewall (with advanced functions)
 
