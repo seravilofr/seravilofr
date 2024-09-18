@@ -2,11 +2,11 @@
 
 <h3>💼 My professional statement :</h3>
 
-<p align="justify">I am a part-time student with 8 years of experience in Human Resources and Labor Law, seeking to transition my career to cybersecurity.</p>
+<p align="justify">I am a part-time student with 10 years of experience in Human Resources and Labor Law, seeking to transition my career to cybersecurity.</p>
 
 <p align="justify">My professional statement is directed towards cybersecurity professionals across various industries,  inviting their guidance, advice, and mentorship as I embark on my journey to become a cybersecurity expert.</p>
 
-<p align="justify">What captivates me in the field of cybersecurity is  its dynamic, fast-paced nature, addressing a wide range of topics. Serving as the 'gatekeeper' against threat actors, I am committed to ensuring organizational compliance with laws and regulations.</p>
+<p align="justify">What captivates me in the field of cybersecurity is  its dynamic, fast-paced nature, addressing a wide range of topics. Serving as the 'gatekeeper' against threat actors, I am committed to ensuring organizational compliance with laws and regulations as well as assessing risks and threats should the organization be targeted by a malicious actor.</p>
 
 <p align="justify">Drawing from my HR and Legal background, I bring a deep understanding of handling personal and sensitive data, emphasizing confidentiality, ethics, and impartiality in my day-to-day work. My expertise also include research skills and the ability to ask insightful questions.
 Additionally, my curiosity, teamwork proficiency, and quick on-the-job learning make me a valuable asset to any organization.</p>
@@ -29,7 +29,7 @@ Additionally, my curiosity, teamwork proficiency, and quick on-the-job learning 
 
 - [CompTIA IT Fundamentals](https://www.comptia.org/certifications/it-fundamentals) *(currently ongoing)*
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) *(currently ongoing)*
-- [TryHackMe - Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) *(currently ongoing)*
+- [TryHackMe - SOC Level 1](https://tryhackme.com/path/outline/jrpenetrationtester) *(currently ongoing)*
 
 <h3>🎙 Popular Podcast Episodes (in French)</h3>
 
