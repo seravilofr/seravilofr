@@ -29,7 +29,7 @@ Additionally, my curiosity, teamwork proficiency, and quick on-the-job learning 
 
 - [CompTIA IT Fundamentals](https://www.comptia.org/certifications/it-fundamentals) *(currently ongoing)*
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) *(currently ongoing)*
-- [TryHackMe - SOC Level 1](https://tryhackme.com/path/outline/jrpenetrationtester) *(currently ongoing)*
+- [TryHackMe - SOC Level 1](https://tryhackme.com/path/outline/soclevel1) *(currently ongoing)*
 
 <h3>🎙 Popular Podcast Episodes (in French)</h3>
 
