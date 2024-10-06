@@ -31,6 +31,9 @@ Additionally, my curiosity, teamwork proficiency, and quick on-the-job learning 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) *(currently ongoing)*
 - [TryHackMe - SOC Level 1](https://tryhackme.com/path/outline/soclevel1) *(currently ongoing)*
 
+<h3>💻 Other IT projects
+- [Villain Password Generator](https://github.com/seravilofr/villain-password-generator) : First python project, password generator that includes a villain name in it</h3>
+
 <h3>🎙 Popular Podcast Episodes (in French)</h3>
 
 - [Trailer](https://open.spotify.com/episode/2WU6eEr7VqPcBKRGvzv7o5?si=LZ-PSeuXSy-TTZxLqfzdlA)
