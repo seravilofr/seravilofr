@@ -32,6 +32,7 @@ Additionally, my curiosity, teamwork proficiency, and quick on-the-job learning 
 - [TryHackMe - SOC Level 1](https://tryhackme.com/path/outline/soclevel1) *(currently ongoing)*
 
 <h3>💻 Other IT projects</h3>
+
 - [Villain Password Generator](https://github.com/seravilofr/villain-password-generator) : First python project, password generator that includes a villain name in it</h3>
 
 <h3>🎙 Popular Podcast Episodes (in French)</h3>
